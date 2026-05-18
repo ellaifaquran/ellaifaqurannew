@@ -1,0 +1,6 @@
+DirectoryIndex index.php index.html
+Options -Indexes
+
+<FilesMatch "^(README\.md|database\.sql)$">
+  Require all denied
+</FilesMatch>
