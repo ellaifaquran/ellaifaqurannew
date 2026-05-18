@@ -1,0 +1,6 @@
+app/config.php
+.env
+*.log
+*.zip
+database.sql
+README.md
